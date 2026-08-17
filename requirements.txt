@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+beautifulsoup4
+openai
+jupyter
+ipykernel
+pytest
